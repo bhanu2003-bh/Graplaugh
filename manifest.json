@@ -1,0 +1,13 @@
+{
+    "name": "GrapLaugh",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "GrapLaugh",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "16": "logo.png"
+    }
+}
